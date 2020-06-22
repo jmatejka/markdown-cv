@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Justin Matejka
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -31,12 +31,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 __The King's School, Grantham.__
 
 `June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+__Software Engineering, University of Waterloo__
 
 - Fellow
 
